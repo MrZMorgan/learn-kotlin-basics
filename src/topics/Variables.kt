@@ -11,6 +11,8 @@ fun main() {
     var test2 = 2
     test2 = 4
 
+    val str: String = "Hello"
+
     println("Values of test2 ${test1 + test2}")
     println("Values of test2 ${2 + 2}")
 }
